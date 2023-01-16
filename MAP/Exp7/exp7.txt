@@ -1,0 +1,7 @@
+1)Enable usb debugging mode and enable file transfer
+2)Connect mobile device via usb cable to the computer
+3)Once the device is connected we have to goto cmd prompt/ powershell
+4)TYPE flutter doctor 
+5)GOTO IDE vs code 
+6)Select the phone and run the app
+ 
